@@ -1,10 +1,9 @@
 
-<h1 align="center"> Hello, I'm Lunar! 👋 </h1>
-<h3 align="center">🚀 A kid who likes tech 🚀</h3>
+<h1 align="center">hi im archie</h1>
+<h3 align="center">i do stuff sometimes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunar-os" alt="lunar-os" /> </p>
 
-- 🔭 Im 14 years old
-- 🌱 I use Arch BTW
-- 👯 I get no bitches
-- 💬 I like ricing Linux
+- 🔭 im 16
+- 🌱 linux/windows
+
