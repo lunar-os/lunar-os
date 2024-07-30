@@ -4,6 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunar-os" alt="lunar-os" /> </p>
 
-- 🔭 im 16
-- 🌱 linux/windows
-
+-  im 16
+-  linux/windows
+-  @asev on tiktok/discord
